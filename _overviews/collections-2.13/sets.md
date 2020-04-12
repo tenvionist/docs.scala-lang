@@ -41,7 +41,7 @@ For example:
 |  `xs subsetOf ys`  	    |Tests whether `xs` is a subset of `ys`.         |
 |  **Addition:**           |						     |
 |  `xs concat ys`<br>or `xs ++ ys`  	            |The set containing all elements of `xs` as well as all elements of `ys`.|
-|  **Removal:**               |						     |
+|  **Factory:**               |						     |
 |  `xs.empty`  	            |An empty set of the same class as `xs`.         |
 |  **Binary Operations:**   |						     |
 |  `xs intersect ys`<br>or `xs & ys`  	            |The set intersection of `xs` and `ys`.          |
